@@ -2,4 +2,4 @@
 i am in branch1 
 trying merging branch
 
-This is an additional line of text.
+This is an additional line of text
