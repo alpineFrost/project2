@@ -8,3 +8,5 @@ Suchi di's file
 I am a change
 Trying to make a change
 >>>>>>> f3280a6109063f0ab55b73717001e4de507c4eea
+
+Adding a line
